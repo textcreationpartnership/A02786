@@ -35,13 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse of the seuerall kinds and causes of lightnings Written by occasion of a feareful lightni
+
+1. Honoratiſsimo Domino D. HOVVARDO, Baroni de Effingham, illuſtriſsimi Comitis Notingamienſis filio et heredi domino ſuo colendiſsimo omnia proſpera & faelicia.
+
+1. The preface to the Chriſtian Reader.
+
 #####Body#####
 
-1. An addition of the Author ſhewing the opinions of Philoſophers and Aſtronomers touching Thundrings and Lightnings.
+1. A DISCOVRSE OF THE SEVERAL Kindes and Cauſes of Lightninges.
+
+    _ An addition of the Author ſhewing the opinions of Philoſophers and Aſtronomers touching Thundrings and Lightnings.
 
 #####Back#####
-A discourse of the seuerall kinds and causes of lightnings Written by occasion of a feareful lightni
+
+1. ERRATA.
+
 **Types of content**
 
   * There are 43 **verse** lines!
